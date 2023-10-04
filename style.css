@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@400;600;700&display=swap');
+
+body.dark {
+    background-color: #1f2124;
+    color: #d6d1d1;
+    
+  }
+  
+  .dark .container {
+    background-color: #292a2c;
+    color: #f7f7f7;
+    .heading{
+        color: rgb(250, 99, 61);
+        font-weight: bold;  
+        
+     }
+     
+  }
+  
+.sec{
+    min-height: 200vh;
+    position: relative;
+}
+.btn{
+    position: absolute;
+    right: 0;
+    margin: 0.25em;
+}
+
+.imagePreview {
+    margin-left: 0;
+    margin-top: 0.25em;
+    width: 100px;
+    height: 100px;
+    border: 2px solid #b39a9a;
+    background-size: cover;
+    background-position: center;
+  }
+
+span{
+    font-size: 14px;
+    color: #e68888;
+    font-weight: bold;
+}
+.heading{
+    color: rgb(73, 87, 216);
+    font-weight: bold;     
+}
+p{
+    color: #7a6363;
+}
+
+a{
+    text-decoration: none;
+
+}
+.space{
+    margin-bottom: 2em;
+}
